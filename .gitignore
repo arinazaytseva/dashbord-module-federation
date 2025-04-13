@@ -1,6 +1,4 @@
-dashboard-shell/node_modules/
-news-widget/node_modules/
-weather-widget/node_modules/
+**/node_modules/
 
 *.log
 *.env
